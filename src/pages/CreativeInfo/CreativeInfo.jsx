@@ -51,7 +51,7 @@ const CreativeInfo = () => {
                                 <div className="card__right">
                                     <p>Anlayışınız ve sabrınız için <span>teşekkür ederiz.</span><br />Yakında tekrar görüşmek üzere!
                                     </p>
-                                    <p>Yol tarifi almak veya adresimize ulaşmak için haritalardan destek alabilirsiniz. <a href="https://www.google.com/maps/place/Lezzet+Sofrası+Yemek+Sanayi+ve+Ticaret+A.Ş/@40.1991059,29.1075626,17z/data=!4m6!3m5!1s0x14ca3f4d710071e3:0xe721b62adf93b4e3!8m2!3d40.1991018!4d29.1101375!16s%2Fg%2F11gxt9dp4b?entry=tts&g_ep=EgoyMDI0MDUwNy4xKgBIAVAD" target="_blank" style={{ textDecoration: "underline", color: "inherit" }}>Tıklayınız.</a></p>
+                                    <p>Yol tarifi almak veya adresimize ulaşmak için haritalardan destek alabilirsiniz. <span style={{ textDecoration: "underline", color: "inherit" }}>Tıklayınız.</span></p>
                                 </div>
                             </div>
                         </div>
