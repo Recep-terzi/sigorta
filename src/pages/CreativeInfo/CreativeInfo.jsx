@@ -34,7 +34,6 @@ const CreativeInfo = () => {
                     </div>
                     <div className="main__top">
                         <p>Sigortacılar Dünyası</p>
-                        <p className='welcome__message'>HOŞ GELDİNİZ!</p>
                         <p>DIGITAL EXPERIENCE <br />DESIGN STUDIO</p>
                     </div>
                     <div className="main__body">

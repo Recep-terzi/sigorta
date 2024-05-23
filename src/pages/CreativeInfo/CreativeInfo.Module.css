@@ -343,7 +343,7 @@
 
     .creative__body .creative__main .main__top p:first-child,
     .creative__body .creative__info__main .main__top p:first-child {
-        display: none;
+        font-size: 16px;
     }
 
     .creative__body .creative__info__main .main__top .welcome__message,
