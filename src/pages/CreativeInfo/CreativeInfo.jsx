@@ -42,8 +42,8 @@ const CreativeInfo = () => {
                             <p>
                                 Sitemiz şu anda <span>yapım aşamasındadır.</span>
                             </p>
-                            <p>Yakında sizlerle buluşacak olan yeni ve heyecan verici projemiz için sabırsızlanıyoruz!</p>
-                            <p>Ekip olarak, harika bir deneyim ve değerli içerikler sunmak için yoğun bir şekilde çalışıyoruz. Sizlere en iyi hizmeti sunabilmek adına her detayı titizlikle ele alıyoruz.</p>
+                            <p>Yakında Sizlerle Buluşacak Olan Sigortacılar Dünyası Projemiz İçin Sabırsızlanıyoruz!</p>
+                            <p>Sigortacılar Dünyası ekibi olarak, sizlere üstün bir deneyim ve zengin içerikler sunabilmek için var gücümüzle çalışıyoruz. Her ayrıntıyı özenle değerlendirerek, sigorta ihtiyaçlarınıza en uygun çözümleri geliştirmek için titizlikle çalışmaktayız. Amacımız, sigorta dünyasında sizin için fark yaratmak ve sizlere en iyi hizmeti sunmaktır. Yakında sizlerle buluşacak olan yeni projemiz için heyecanlıyız!</p>
                             <div className="main__body__card">
                                 <div className="card__left">
                                     <img src={cardImage} alt="" />
@@ -51,7 +51,7 @@ const CreativeInfo = () => {
                                 <div className="card__right">
                                     <p>Anlayışınız ve sabrınız için <span>teşekkür ederiz.</span><br />Yakında tekrar görüşmek üzere!
                                     </p>
-                                    <p>Yol tarifi almak veya adresimize ulaşmak için haritalardan destek alabilirsiniz. <span style={{ textDecoration: "underline", color: "inherit" }}>Tıklayınız.</span></p>
+                                    <p>Bizi takip etmeye devam edin! Çok yakında sizlerle paylaşacağımız heyecan verici yenilikler ve sürprizler için hazır olun!...</p>
                                 </div>
                             </div>
                         </div>
